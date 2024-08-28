@@ -20,7 +20,7 @@ import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
 fgfgnvnbvbn
-    private AppBarConfiguration appBarConfiguration;
+    private AppBarConfiguration appBarConfiguration;ggfgf
     private ActivityMainBinding binding;
 
     @Override
